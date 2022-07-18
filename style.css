@@ -80,6 +80,7 @@
     border-radius: 10px;
     color: antiquewhite;
     font-weight: 700;
+    cursor: pointer;
 
 }
 
@@ -161,4 +162,20 @@
     width: 300px;
     height: 550px;
     transform: skewY(-15deg);
+}
+
+.workout-containear {
+    width: 650px;
+    height: 200px;
+    background-image: url(./images/shape/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 9px;
 }
