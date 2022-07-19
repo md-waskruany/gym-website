@@ -179,3 +179,39 @@
     margin-bottom: 50px;
     border-radius: 9px;
 }
+
+.service-title {
+    font-size: 40px;
+    text-align: center;
+}
+
+.main-service-card {
+    width: 350px;
+    height: 450px;
+    border: 2px solid grey;
+    box-shadow: 7px 7px 15px grey;
+    margin-bottom: 50px;
+    border-radius: 8px;
+
+
+
+}
+
+.main-service-card img {
+    width: 100%;
+}
+
+.rate {
+    display: flex;
+    justify-content: space-between;
+    padding: 9px;
+
+}
+
+.text-padding {
+    padding: 9px;
+}
+
+.h4-color {
+    color: brown;
+}
