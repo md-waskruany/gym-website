@@ -186,15 +186,17 @@
 }
 
 .main-service-card {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card-div {
     width: 350px;
     height: 450px;
     border: 2px solid grey;
     box-shadow: 7px 7px 15px grey;
     margin-bottom: 50px;
     border-radius: 8px;
-
-
-
 }
 
 .main-service-card img {
